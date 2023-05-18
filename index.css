@@ -5,6 +5,7 @@
 }
 body{
  font-family: 'Plus Jakarta Sans', sans-serif;
+ overflow-x: hidden;
  
 
 }
@@ -232,16 +233,18 @@ footer a{
 
   .flex section:last-child{
     margin-top: -8em;
-    margin-right: -10em;
+    margin-right: -12em;
     
   }
-  /* .title{
-    width: ;
-  } */
+
+  .title{
+
+    width:54% ;
+  }
 
   .img{
     content: url('assets/image-hero-desktop.png');
-    width: 100%;
+ 
   }
 
   .grid{
