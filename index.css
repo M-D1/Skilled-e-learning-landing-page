@@ -235,9 +235,13 @@ footer a{
     margin-right: -10em;
     
   }
+  /* .title{
+    width: ;
+  } */
 
   .img{
     content: url('assets/image-hero-desktop.png');
+    width: 100%;
   }
 
   .grid{
